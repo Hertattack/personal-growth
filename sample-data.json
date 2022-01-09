@@ -1,0 +1,140 @@
+{
+  "history": [
+    {
+      "value": 4,
+      "description": "Did well.",
+      "energy": -3,
+      "errors": [],
+      "date": "2022-01-09T10:20:34.640Z",
+      "id": 14,
+      "title": "Yes, there is a title"
+    },
+    {
+      "value": 5,
+      "description": "Did ok.",
+      "energy": -3,
+      "errors": [],
+      "date": "2022-01-09T10:20:34.640Z",
+      "id": 13,
+      "title": "There is too"
+    },
+    {
+      "value": -5,
+      "description": "Did well.",
+      "energy": -3,
+      "errors": [],
+      "date": "2022-01-09T10:20:34.640Z",
+      "id": 12,
+      "title": "Whyyyyyyy"
+    },
+    {
+      "value": 3,
+      "description": "Did ok.",
+      "energy": -5,
+      "errors": [],
+      "date": "2022-01-09T10:20:34.640Z",
+      "id": 11,
+      "title": "No title"
+    },
+    {
+      "value": 5,
+      "description": "Wow!",
+      "energy": 3,
+      "errors": [],
+      "date": "2022-01-09T10:20:34.640Z",
+      "id": 10,
+      "title": "No title"
+    },
+    {
+      "value": -2,
+      "description": "Nooooh",
+      "energy": 1,
+      "errors": [],
+      "date": "2022-01-09T10:20:34.640Z",
+      "id": 9,
+      "title": "No title"
+    },
+    {
+      "value": -3,
+      "description": "Nooooooooooh",
+      "energy": 2,
+      "errors": [],
+      "date": "2022-01-09T10:20:34.640Z",
+      "id": 8,
+      "title": "No title"
+    },
+    {
+      "value": 5,
+      "description": "Wow!",
+      "energy": 3,
+      "errors": [],
+      "date": "2022-01-09T10:20:34.640Z",
+      "id": 7,
+      "title": "No title - really?"
+    },
+    {
+      "value": -2,
+      "description": "Nooooh",
+      "energy": -2,
+      "errors": [],
+      "date": "2022-01-09T10:20:34.640Z",
+      "id": 6,
+      "title": "No title"
+    },
+    {
+      "value": -3,
+      "description": "Nooooooooooh",
+      "energy": -2,
+      "errors": [],
+      "date": "2022-01-09T10:20:34.640Z",
+      "id": 5,
+      "title": "No title"
+    },
+    {
+      "value": 4,
+      "description": "Did well.",
+      "energy": 5,
+      "errors": [],
+      "date": "2022-01-09T10:20:34.640Z",
+      "id": 4,
+      "title": "No title"
+    },
+    {
+      "value": 3,
+      "description": "Did ok.",
+      "energy": -3,
+      "errors": [],
+      "date": "2022-01-09T10:20:34.640Z",
+      "id": 3,
+      "title": "No title"
+    },
+    {
+      "value": 5,
+      "description": "Wow!",
+      "energy": -1,
+      "errors": [],
+      "date": "2022-01-09T10:20:34.640Z",
+      "id": 2,
+      "title": "Yet another title"
+    },
+    {
+      "value": -2,
+      "description": "Nooooh",
+      "energy": 0,
+      "errors": [],
+      "date": "2022-01-09T10:20:34.640Z",
+      "id": 1,
+      "title": "There is too!"
+    },
+    {
+      "value": -3,
+      "description": "Nooooooooooh",
+      "energy": 4,
+      "errors": [],
+      "date": "2022-01-09T10:20:34.640Z",
+      "id": 0,
+      "title": "Yes, there is a title"
+    }
+  ],
+  "future": {}
+}

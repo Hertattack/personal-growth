@@ -1,2 +1,5 @@
-# personal-growth
-Some tinkerings with D3 to visualize personal growth.
+# Personal Growth graphs
+
+This repository contains some tinkerings with D3 to visualize personal growth.
+
+

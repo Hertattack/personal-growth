@@ -1,0 +1,21 @@
+.main-graph {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    padding: 4px;
+    max-width: 200px;
+    font: .9em;
+    color: white;
+    background: black;
+    border: 0px;
+    border-radius: 4px;
+    pointer-events: none;
+}
+
+button.action-button {
+    margin-right: 10px;
+}

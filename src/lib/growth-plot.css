@@ -1,0 +1,38 @@
+.energy-positive-5 {
+    fill: darkgreen;
+}
+.energy-positive-4 {
+    fill: green;
+}
+.energy-positive-3 {
+    fill: palegreen;
+}
+.energy-positive-2 {
+    fill: greenyellow;
+}
+.energy-positive-1 {
+    fill: yellow;
+}
+.energy-positive-0 {
+    fill: yellow;
+}
+.energy-negative-1 {
+    fill: yellow;
+}
+.energy-negative-2 {
+    fill: #ffcd39;
+}
+.energy-negative-3 {
+    fill: orange;
+}
+.energy-negative-4 {
+    fill: darkorange;
+}
+.energy-negative-5 {
+    fill: darkred;
+}
+
+.history-curve {
+    fill: none;
+    stroke: deepskyblue;
+}

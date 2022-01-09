@@ -1,0 +1,20 @@
+.qp-axis {
+    fill: none;
+    stroke: black;
+}
+
+.data-point {
+    color: red;
+}
+
+.axis-text {
+    font-size: .7em;
+}
+
+.higher-axis-text {
+    fill: darkgreen;
+}
+
+.lower-axis-text {
+    fill: darkred ;
+}

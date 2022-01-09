@@ -1,0 +1,50 @@
+div.accordion span.rounded-circle {
+    margin-left: 10px;
+    width: 24px;
+    height: 24px;
+    font-weight: bold;
+    font-size: 0.9em;
+    text-align: center;
+    padding: 2px;
+}
+span.rounded-circle.energy-positive-5 {
+    background-color: darkgreen;
+}
+span.rounded-circle.energy-positive-4 {
+    background-color: green;
+}
+span.rounded-circle.energy-positive-3 {
+    background-color: palegreen;
+}
+span.rounded-circle.energy-positive-2 {
+    background-color: greenyellow;
+}
+span.rounded-circle.energy-positive-1 {
+    background-color: yellow;
+}
+span.rounded-circle.energy-positive-0 {
+    background-color: yellow;
+}
+span.rounded-circle.energy-negative-1 {
+    background-color: yellow;
+}
+span.rounded-circle.energy-negative-2 {
+    background-color: #ffcd39;
+}
+span.rounded-circle.energy-negative-3 {
+    background-color: orange;
+}
+span.rounded-circle.energy-negative-4 {
+    background-color: darkorange;
+}
+span.rounded-circle.energy-negative-5 {
+    background-color: darkred;
+}
+
+span.current-value {
+    font-style: italic;
+}
+
+.performance-log-modal {
+    max-width: 90%;
+}
